@@ -10,6 +10,7 @@ public class Main {
             double movieRating = 8.5;
             boolean series = false;
             char directorInitial = 'J';
+            String favoriteChar = "Emylie";
 
         System.out.println("Year released: " + yearReleased);
         System.out.println("Genre: " + genreMovie);
